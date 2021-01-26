@@ -6,5 +6,5 @@ This repository contains files containing an experiment conducted as part of my 
 5. Run one of the following files: *Word2Vec.ipynb*, *fastText.ipynb*, *BERT.ipynb* to get the required vector representation of the texts.
 6. To calculate metrics, run *agglomerative clustering.ipynb* and *kNN.ipynb*. In the top cell it is necessary to indicate which tokens are used.
 
-For clarity, the project structure is shown in the image:
+For clarity, the project structure is shown in the image:<br>
 <img src="/images/structure.jpg" alt="structure" width="400"/>
