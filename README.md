@@ -7,4 +7,4 @@ This repository contains files containing an experiment conducted as part of my 
 6. To calculate metrics, run *agglomerative clustering.ipynb* and *kNN.ipynb*. In the top cell it is necessary to indicate which tokens are used.
 
 For clarity, the project structure is shown in the image:
-![structure](/images/structure.jpg)
+<img src="/images/structure.jpg" alt="structure" width="200"/>
